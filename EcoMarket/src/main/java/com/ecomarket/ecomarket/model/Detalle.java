@@ -14,6 +14,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+
 public class Detalle {
 
     @Id
